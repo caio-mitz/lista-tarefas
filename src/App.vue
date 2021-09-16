@@ -64,7 +64,6 @@ ul li {
 .removed {
   color: gray;
 }
-
 .removed label {
   text-decoration: line-through;
 }
